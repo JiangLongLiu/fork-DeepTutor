@@ -272,3 +272,4 @@ celerybeat.pid
 *.wav
 *.ogg
 !demo/*.mp4
+docs/docs/rk3566-istoreos-deploy/password.xls
